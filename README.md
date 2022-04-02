@@ -1,0 +1,2 @@
+Semana 2: O que aprendi?
+Javascipt é uma linguaguem que exige muitos detalhes, felizmente colhi bons resultados com as aulas e consegui concluir os exercícios sem dificuldade (ao menos espero que estejam todos corretos). Ansiosa pra aprender a usar o "input" em Java pois fará total diferença nos resultados dos exercícios ao invés de colocar um número definido, será bem mais funcional. Aguardo ansiosamente a próxima aula!
